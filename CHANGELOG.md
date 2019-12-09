@@ -1,4 +1,9 @@
-# [1.1.0](https://github.com/littlegrayss/workflow-example/compare/1.0.0...1.1.0) (2019-12-09)
+## [1.1.1](https://github.com/littlegrayss/workflow-example/compare/1.1.0...1.1.1) (2019-12-09)
+
+
+### Bug Fixes
+
+* **index:** fixed wrong function ([8c43f52](https://github.com/littlegrayss/workflow-example/commit/8c43f529b33cb790677ec5ae764bfc68105f0a4a))
 
 
 ### Features
